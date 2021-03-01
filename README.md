@@ -50,17 +50,19 @@
 
 ### [7. Queue](https://github.com/KimUJin3359/Algorithm_Queue)
 - **큐**란?
-- 선형큐, 원형큐, 연결큐
+  - 선형큐
+  - 원형큐
+  - 연결큐
 - **우선순위 큐**
 - 버퍼
 - BFS
 
 ### [8. List, Tree](https://github.com/KimUJin3359/Algorithm_List-Tree)
 - **리스트**란?
-- Linked List
+  - Linked List
 - 정렬(Insertion Sort)
 - **트리**란?
-- Binary Tree
+  - Binary Tree
 - 순회
 - **Binary Search Tree**
 - **Heap**
@@ -68,9 +70,9 @@
 ### [9. Brute-Force, Greedy](https://github.com/KimUJin3359/Algorithm_BruteForce-Greedy)
 - 반복과 재귀
 - Brute-Force란?
-- 순열
-- 부분집합
-- 조합
+  - 순열
+  - 부분집합
+  - 조합
 - **Greedy Algorithm**이란?
 - Greedy와 DP의 차이
 - 탐욕 기법의 알고리즘 예시
@@ -79,8 +81,11 @@
 - **그래프**란?
 - 그래프 경로 및 표현
 - **Disjoint-Sets**
-- **MST(최소 비용 신장트리) : PRIM, KRUSKAL**
-- **최단경로 : DIJKSTRA**
+- **MST(최소 비용 신장트리)**
+  - **PRIM** 
+  - **KRUSKAL**
+- **최단경로**
+  - **DIJKSTRA**
 
 ### [11. Divide and Conquer, Back Tracking](https://github.com/KimUJin3359/Algorithm_Div_and_Con_Back_Tracking)
 - **분할과 정복**이란?
