@@ -1,7 +1,7 @@
 # My_Algorithm_Study
 
-#### 각 title에 연결된 repository의 내용들의 **개요** 정리
-#### 각 repository 안에는 해당 **내용들의 설명 및 실습 예제**가 존재
+#### 각 Title에 연결된 Repository의 개요 정리
+#### 각 Repository 안에는 해당 내용들의 설명과 실습 예제가 존재
 
 ### [0. Overview](https://github.com/KimUJin3359/Algorithm_Overview)
 - **복잡도** 분석
