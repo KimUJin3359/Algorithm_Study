@@ -94,3 +94,13 @@
 - **백트랙킹**이란?
 - **Index Tree(공부 중)**
 
+### [12. Dynamic Programming](https://github.com/KimUJin3359/Algorithm_DP)
+- **DP**란?
+  - 중복 부분문제 구조
+  - 최적 부분문제 구조
+- **Memoization**이란?
+- 적용 예시
+  - 피보나치
+  - 동전 거스름 돈 구하기
+  - 이항계수 구하기
+  - 0-1 Knapsack
