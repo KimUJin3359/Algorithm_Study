@@ -1,4 +1,4 @@
-# My_Algorithm_Study
+# Algorithm
 
 #### 각 Title에 연결된 Repository의 개요 정리
 #### 각 Repository 안에는 해당 내용들의 설명과 실습 예제가 존재
@@ -104,3 +104,10 @@
   - 동전 거스름 돈 구하기
   - 이항계수 구하기
   - 0-1 Knapsack
+
+### [13. Closing](https://github.com/KimUJin3359/Algorithm_Closing/blob/master/README.md)
+- 계산 복잡도 이론
+- P-NP 개념
+- NP-Complete의 예시와 활용 예
+
+### 추후 추가 예정(~21/03/04)
