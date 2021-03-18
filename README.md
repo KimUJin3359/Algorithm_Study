@@ -109,5 +109,3 @@
 - 계산 복잡도 이론
 - P-NP 개념
 - NP-Complete의 예시와 활용 예
-
-### [14. 배운 개념 적용하여 문제 풀이](https://github.com/KimUJin3359/Solve_Problems)
