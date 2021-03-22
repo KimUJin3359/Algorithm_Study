@@ -35,8 +35,6 @@
   - Brute-Force
   - Boyer-Moore
 
----
-
 ### [4. String(2)](https://github.com/KimUJin3359/Algorithm_Hash_String-2-)
 - **Hashing**
 - **패턴매칭**
@@ -52,8 +50,6 @@
 - **스택**이란?
 - 재귀호출
 - DFS
-
----
 
 ### [6. Stack(2)](https://github.com/KimUJin3359/Algorithm_Stack-2-)
 - 계산기 구현
